@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anonna</h1>
-<h3 align="center">I'm studying Computer science Engieering and trying to learn new things :)</h3>
+<h3 align="center">Trying to learn new things :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayra-hossain-anonna&label=Profile%20views&color=0e75b6&style=flat" alt="humayra-hossain-anonna" /> </p>
 
